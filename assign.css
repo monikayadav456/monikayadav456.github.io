@@ -8,7 +8,7 @@ ul {
     padding: 0;
     width: 8%;
     background-color:white;
-    box-shadow: 4px 4px 4px #f1f1f1c7;
+    box-shadow: 6px 6px 6px #a29b9bc7;
     height: 100%; 
     position: fixed; 
     overflow: auto; 
@@ -53,6 +53,9 @@ ul {
    p{
        margin-left:600px;
        padding-top:3px;
+   }
+   a{
+       color:dimgray;
    }
    .square{
          margin-left: 300px;
