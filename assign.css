@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 8%;
+    background-color:white;
+    box-shadow: 4px 4px 4px #f1f1f1c7;
+    height: 100%; 
+    position: fixed; 
+    overflow: auto; 
+}
+   .out{
+       padding:30px 0px 30px 0px;
+       color: rgba(0, 0, 0, 0.418);
+       
+   }
+   li div.out:hover {
+    background-color: rgb(171, 195, 228);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    }
+     .icon {
+       height: 100%;
+        color: rgba(0, 0, 0, 0.418);
+        text-decoration: none;
+        text-align: center;
+      }
+      .name{
+          text-align: center;
+          }
+
+   .up{
+       height:106px;
+       background-color:white;
+   }
+   .down{
+        height:750px;
+        background-color:#f1f1f1
+   }
+   input{
+       margin-top:70px;
+       margin-left: 300px;
+       padding-left: 10px;
+       width: 700px;
+       height:35px;
+       border-radius: 10px;
+       border-style: hidden;
+   }
+   p{
+       margin-left:600px;
+       padding-top:3px;
+   }
+   .square{
+         margin-left: 300px;
+         background-color: white;
+         width:180px;
+         height:100px;
+         text-align: center;
+         padding-top:70px;
+         font-weight: bolder;
+   }
